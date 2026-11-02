@@ -10,3 +10,8 @@
 - This is a second commit made on the local clone.
 - And it has two lines this time.
 
+## Specs
+
+- It is just text files.
+
+
